@@ -1,6 +1,6 @@
 const Contact = () => {
   return (
-    <section name={'contact'} className={"w-full  h-full bg-[#0a192f] flex justify-center items-center py-32"}>
+    <section name={"Contact"} className={"w-full h-full bg-[#0a192f] flex justify-center items-center py-32"}>
       <form method={'Post'} action="https://getform.io/f/6a87b8c5-c2c6-4029-b364-4def7c0e0a8a"
             className={"flex flex-col max-w-[600px] w-full"}>
         <div className={"pb-8"}>
