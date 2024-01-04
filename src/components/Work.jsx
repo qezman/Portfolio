@@ -2,6 +2,8 @@ import BagImg from '../assets/Bag.png'
 import cloudImg from '../assets/cloud.png'
 import realImg from '../assets/Calendly2.png'
 import furniImg from '../assets/furni.png'
+import gtcoImg from '../assets/gtco.png'
+import educationImg from '../assets/education.png'
 
 const Work = () => {
   return (
@@ -95,7 +97,7 @@ const Work = () => {
             {/*Hover Effects*/}
             <div className={"opacity-0 group-hover:opacity-100"}>
               <span className={"text-2xl font-bold text-white tracking-wider"}>
-                React JS Application
+              Figma Project
               </span>
               <div className={"pt-8 text-center"}>
                 <a href="/"
@@ -103,41 +105,41 @@ const Work = () => {
                   <button>Demo</button>
                 </a>
 
-                <a href="/"
+                {/* <a href="/"
                    className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Code</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
 
           <div
-            style={{backgroundImage: `url(${realImg})`}}
+            style={{backgroundImage: `url(${gtcoImg})`}}
             className={"shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"}>
             {/*Hover Effects*/}
             <div className={"opacity-0 group-hover:opacity-100"}>
               <span className={"text-2xl font-bold text-white tracking-wider"}>
-                React JS Application
+                Figma Project
               </span>
               <div className={"pt-8 text-center"}>
                 <a href="/" className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Demo</button>
                 </a>
-
+{/* 
                 <a href="/" className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Code</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
 
           <div
-            style={{backgroundImage: `url(${cloudImg})`}}
+            style={{backgroundImage: `url(${educationImg})`}}
             className={"shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"}>
             {/*Hover Effects*/}
             <div className={"opacity-0 group-hover:opacity-100"}>
               <span className={"text-2xl font-bold text-white tracking-wider"}>
-                React JS Application
+              Figma Project
               </span>
               <div className={"pt-8 text-center"}>
                 <a href="/"
@@ -145,10 +147,10 @@ const Work = () => {
                   <button>Demo</button>
                 </a>
 
-                <a href="/"
+                {/* <a href="/"
                    className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Code</button>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
