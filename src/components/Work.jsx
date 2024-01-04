@@ -1,5 +1,5 @@
 import BagImg from '../assets/Bag.png'
-import cloudImg from '../assets/cloud.png'
+import speedRadar from '../assets/terrestrial-speed-radar.png'
 import realImg from '../assets/Calendly2.png'
 import furniImg from '../assets/furni.png'
 import gtcoImg from '../assets/gtco.png'
@@ -15,7 +15,7 @@ const Work = () => {
         </div>
 
 
-        {/*UI/UX PROJECTS Container-2*/}
+        {/*UI/UX PROJECTS Container-1*/}
         <h1 className={"text-xl text-blue-500 text-center font-semibold mt-3 py-4"}>UI/UX Projects</h1>
 
         <div
@@ -86,7 +86,7 @@ const Work = () => {
           </div>
         </div>
 
-        {/*Container*/}
+        {/*REACT PROJECTS Container 2*/}
         <h1 className={"text-xl text-center font-semibold mt-3 py-4 text-blue-500"}>React Projects</h1>
 
         <div
@@ -101,10 +101,6 @@ const Work = () => {
                 React JS Application
               </span>
               <div className={"pt-8 text-center"}>
-                <a href="/"
-                   className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
-                  <button>Demo</button>
-                </a>
 
                 <a href="/"
                    className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
@@ -127,15 +123,12 @@ const Work = () => {
                   <button>Demo</button>
                 </a>
 
-                <a href="/" className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
-                  <button>Code</button>
-                </a>
               </div>
             </div>
           </div>
 
           <div
-            style={{backgroundImage: `url(${cloudImg})`}}
+            style={{backgroundImage: `url(${speedRadar})`}}
             className={"shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"}>
             {/*Hover Effects*/}
             <div className={"opacity-0 group-hover:opacity-100"}>
@@ -143,14 +136,9 @@ const Work = () => {
                 React JS Application
               </span>
               <div className={"pt-8 text-center"}>
-                <a href="/"
+                <a href="https://terrestrial-speed-radar.netlify.app/"
                    className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Demo</button>
-                </a>
-
-                <a href="/"
-                   className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
-                  <button>Code</button>
                 </a>
               </div>
             </div>
