@@ -100,7 +100,7 @@ const Work = () => {
               Figma Project
               </span>
               <div className={"pt-8 text-center"}>
-                <a href="/"
+                <a href="https://www.behance.net/gallery/182235163/Furniture-Landing-Page"
                    className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Demo</button>
                 </a>
@@ -122,7 +122,7 @@ const Work = () => {
                 Figma Project
               </span>
               <div className={"pt-8 text-center"}>
-                <a href="/" className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
+                <a href="https://www.behance.net/gallery/186960521/GTCO-Redesign-Mobile-App" className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Demo</button>
                 </a>
 {/* 
@@ -142,7 +142,7 @@ const Work = () => {
               Figma Project
               </span>
               <div className={"pt-8 text-center"}>
-                <a href="/"
+                <a href="https://www.behance.net/gallery/181787301/E-learning-Mobile-App"
                    className={"text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"}>
                   <button>Demo</button>
                 </a>
