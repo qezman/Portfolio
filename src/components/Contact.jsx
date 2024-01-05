@@ -5,7 +5,7 @@ const Contact = () => {
             className={"flex flex-col max-w-[600px] w-full"}>
         <div className={"pb-8"}>
           <h1 className={"text-4xl inline font-bold b-4 border-blue-500 text-gray-300"}>Contact</h1>
-          <p>Submit the form below or shoot me an email - qezman00@yahoo.com</p>
+          <p className="text-white">Submit the form below or shoot me an email - holaryinka5050@gmail.com</p>
         </div>
 
         <input type="text" placeholder={"Name"} name={"name"} className={"bg-[#ccd6f6] p-2"}/>
