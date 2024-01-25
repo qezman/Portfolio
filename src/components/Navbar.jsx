@@ -85,13 +85,6 @@ const Navbar = () => {
             </a>
           </li>
 
-          <li className={"w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]"}>
-            <a
-              className={"flex justify-between items-center w-full text-gray-300"}
-              href="https://www.github.com/qezman">
-              Github <FaGithub size={20} />
-            </a>
-          </li>
 
           <li className={"w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]"}>
             <a
@@ -104,7 +97,7 @@ const Navbar = () => {
           <li className={"w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]"}>
             <a
               className={"flex justify-between items-center w-full text-gray-300"}
-              href="https://profile.indeed.com/">
+              href="https://profile.indeed.com/document/view">
               Resume <BsFillPersonLinesFill size={20} />
             </a>
           </li>
